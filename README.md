@@ -1,4 +1,5 @@
 1. 구현 기능
+  
 1-1. 카테고리별 최저가 브랜드 및 가격, 총액 조회
 - 'GET /api/products/lowest-price-per-category'
 
